@@ -1,2 +1,3 @@
 my third file
 
+commit 3
