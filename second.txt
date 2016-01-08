@@ -1,3 +1,2 @@
 my second file
 second lines
-commit 2
